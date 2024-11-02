@@ -1,4 +1,4 @@
-# dz_nextjs1
+# dz_nextjs_vercel
 
 ## Задание
 
